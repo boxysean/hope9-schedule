@@ -1,0 +1,1582 @@
+schedule:
+- end: 1342191600
+  room: Dennis
+  start: 1342188000
+  title: 'Community Fabrication: Four Years Later'
+- end: 1342195200
+  room: Dennis
+  start: 1342191600
+  title: The State of Open Source Hardware
+- end: 1342198800
+  room: Dennis
+  start: 1342195200
+  title: The Autism Spectrum & You
+- end: 1342202400
+  room: Dennis
+  start: 1342198800
+  title: Cryptome Tracks the NYPD Ring of Steel
+- end: 1342206000
+  room: Dennis
+  start: 1342202400
+  title: 'Keynote Address - William Binney'
+- end: 1342213200
+  room: Dennis
+  start: 1342209600
+  title: Hacktivism, Tools, & the Arab Spring
+- end: 1342216800
+  room: Dennis
+  start: 1342213200
+  title: '"Kill The Internet" - MemeFactory'
+- end: 1342220400
+  room: Dennis
+  start: 1342216800
+  title: Why You Shouldn't Write Off Higher Education, Young Grasshopper
+- end: 1342224000
+  room: Dennis
+  start: 1342220400
+  title: Mastering Master-Keyed Systems
+- end: 1342227600
+  room: Dennis
+  start: 1342224000
+  title: Wikileaks, Whistleblowers, & the War on the First Amendment
+- end: 1342231200
+  room: Dennis
+  start: 1342227600
+  title: 'Sierra Zulu. Or How to Create a Feature Film About the Digital Age - and Why That''s Pretty Hard'
+- end: 1342234800
+  room: Dennis
+  start: 1342231200
+  title: The Internet is for Porn! How High Heels and Fishnet Have Driven Internet Innovation and Information Security
+- end: 1342238400
+  room: Dennis
+  start: 1342234800
+  title: Hosting irc.2600.net - My Life with the Thrill Kill Cult
+- end: 1342191600
+  room: Sassaman
+  start: 1342188000
+  title: The Smartphone Penetration Testing Framework
+- end: 1342195200
+  room: Sassaman
+  start: 1342191600
+  title: 'Technology to Change Society: What Not to Do'
+- end: 1342198800
+  room: Sassaman
+  start: 1342195200
+  title: 'Testing the Two Party Tyranny and Open Source Everything: The Battle for the Soul of the Republic'
+- end: 1342202400
+  room: Sassaman
+  start: 1342198800
+  title: Using a Space Camp Model for Next Generation Security Training
+- end: 1342206000
+  room: Sassaman
+  start: 1342202400
+  title: 'Keynote Address - William Binney'
+- end: 1342213200
+  room: Sassaman
+  start: 1342209600
+  title: Legal Processes As Infrastructure Attacks
+- end: 1342216800
+  room: Sassaman
+  start: 1342213200
+  title: Destroying Evidence Before It's Evidence
+- end: 1342220400
+  room: Sassaman
+  start: 1342216800
+  title: Advanced Handcuff Hacking
+- end: 1342224000
+  room: Sassaman
+  start: 1342220400
+  title: 'Nymwars: Fighting for Anonymity and Pseudonymity on the Internet'
+- end: 1342227600
+  room: Sassaman
+  start: 1342224000
+  title: Exploiting ZigBee & the Internet of Things
+- end: 1342231200
+  room: Sassaman
+  start: 1342227600
+  title: 'Jason Scott''s Strange and Wonderful Digital History Argosy'
+- end: 1342234800
+  room: Sassaman
+  start: 1342231200
+  title: How to Communicate with Your Car's Network
+- end: 1342238400
+  room: Sassaman
+  start: 1342234800
+  title: 'Computer Forensics: Possibility, Probability, Opinion, and Fact'
+- end: 1342195200
+  room: Nutt
+  start: 1342191600
+  title: 'Infrastructure Mediated Sensing of Whole-Home Human Activity'
+- end: 1342198800
+  room: Nutt
+  start: 1342195200
+  title: Messing with Nmap through Smoke & Mirrors
+- end: 1342202400
+  room: Nutt
+  start: 1342198800
+  title: 'Crimeware Tools and Techniques of 2012: Past, Present, and Future'
+- end: 1342206000
+  room: Nutt
+  start: 1342202400
+  title: 'Keynote Address - William Binney'
+- end: 1342209600
+  room: Nutt
+  start: 1342206000
+  title: Real Advances in Android Malware
+- end: 1342213200
+  room: Nutt
+  start: 1342209600
+  title: Building Radios to Talk to the Dead
+- end: 1342216800
+  room: Nutt
+  start: 1342213200
+  title: HIDIOUS Methods of Keystroke Injection
+- end: 1342220400
+  room: Nutt
+  start: 1342216800
+  title: 'We Will Be Legion: Decentralizing the Web'
+- end: 1342224000
+  room: Nutt
+  start: 1342220400
+  title: Digital Security in Health Care Institutions
+- end: 1342227600
+  room: Nutt
+  start: 1342224000
+  title: 'Make Your Laws: Practical Liquid Democracy'
+- end: 1342231200
+  room: Nutt
+  start: 1342227600
+  title: Printable Electronics & the Future of Open Hardware
+- end: 1342234800
+  room: Nutt
+  start: 1342231200
+  title: '"No Natural Resources Were Hurt Assembling This Sofa"'
+- end: 1342238400
+  room: Nutt
+  start: 1342234800
+  title: 'Solving More Than #firstworldproblems'
+- end: 1342278000
+  room: Dennis
+  start: 1342274400
+  title: 'Occupy the Airwaves: Tools to Empower Community Radio Stations'
+- end: 1342281600
+  room: Dennis
+  start: 1342278000
+  title: Protecting Your Data from the Cops
+- end: 1342285200
+  room: Dennis
+  start: 1342281600
+  title: 'Phone Phreak Confidential: The Backstory of the History of Phone Phreaking'
+- end: 1342288800
+  room: Dennis
+  start: 1342285200
+  title: 'Keynote Address - The Yes Men'
+- end: 1342296000
+  room: Dennis
+  start: 1342292400
+  title: SCADA/PLC Exploitation & Disclosure
+- end: 1342299600
+  room: Dennis
+  start: 1342296000
+  title: 'Pwn the Drones: A Survey of UAV Hacks and Exploits'
+- end: 1342310400
+  room: Dennis
+  start: 1342299600
+  title: Privacy - A Postmortem (or Cell Phones, GPS, Drones, Persistent Dataveillance, Big Data, Smart Cameras and Facial Recognition, The Internet of Things, and Government Data Centers Vacuuming Google and Facebook, Oh My!)
+- end: 1342314000
+  room: Dennis
+  start: 1342310400
+  title: Taking a Bite Out of Logs with Sagan
+- end: 1342317600
+  room: Dennis
+  start: 1342314000
+  title: Social Engineering
+- end: 1342321200
+  room: Dennis
+  start: 1342317600
+  title: '3D Printing: Making Friends in DC Before People Start Freaking Out'
+- end: 1342324800
+  room: Dennis
+  start: 1342321200
+  title: 'Activist DDoS Attacks: When Analogies and Metaphors Fail'
+- end: 1342331940
+  room: Dennis
+  start: 1342324740
+  title: 'Spy Improv: Reality Unfiltered'
+- end: 1342278000
+  room: Sassaman
+  start: 1342274400
+  title: I'm Not a Real Friend, But I Play One on the Internet
+- end: 1342281600
+  room: Sassaman
+  start: 1342278000
+  title: Historic Hacks in Portable Computing
+- end: 1342285200
+  room: Sassaman
+  start: 1342281600
+  title: Practical Insecurity in Encrypted Radio
+- end: 1342288800
+  room: Sassaman
+  start: 1342285200
+  title: 'Keynote Address - The Yes Men'
+- end: 1342297800
+  room: Sassaman
+  start: 1342292400
+  title: Geeks & Depression
+- end: 1342303200
+  room: Sassaman
+  start: 1342297800
+  title: Electric Bodies & Possible Worlds
+- end: 1342306800
+  room: Sassaman
+  start: 1342303200
+  title: Combat Robots Then & Now
+- end: 1342310400
+  room: Sassaman
+  start: 1342306800
+  title: 'Project Byzantium: An Ad-Hoc Wireless Mesh Network for the Zombie Apocalypse'
+- end: 1342314000
+  room: Sassaman
+  start: 1342310400
+  title: 'Twitter Revolution Meets Surveillance State: Now What?'
+- end: 1342317600
+  room: Sassaman
+  start: 1342314000
+  title: 'Designing Free Hardware: Scratching Your Own Itch with a Soldering Iron'
+- end: 1342321200
+  room: Sassaman
+  start: 1342317600
+  title: 'The ARRIStocrats: Cable Modem Lulz'
+- end: 1342324800
+  room: Sassaman
+  start: 1342321200
+  title: Your Cell Phone is Covered in Spiders! (An Overview of Mobile Device Security)
+- end: 1342328340
+  room: Sassaman
+  start: 1342324740
+  title: 'Film Screening: Monochrom''s Kiki and Bubu: Rated R Us'
+- end: 1342278000
+  room: Nutt
+  start: 1342274400
+  title: Why Browser Cryptography is Bad and How We Can Make It Great
+- end: 1342281600
+  room: Nutt
+  start: 1342278000
+  title: Advancements in Botnet Attacks
+- end: 1342285200
+  room: Nutt
+  start: 1342281600
+  title: 'Hacking Mindsets: Conceptual Approaches to Transmission Art, Improvisation, Circuitbending, and Gaming Technology'
+- end: 1342288800
+  room: Nutt
+  start: 1342285200
+  title: 'Keynote Address - The Yes Men'
+- end: 1342292400
+  room: Nutt
+  start: 1342288800
+  title: An Aesthetic Critique of Fictional Media
+- end: 1342296000
+  room: Nutt
+  start: 1342292400
+  title: Privacy Tricks for Activist Web Developers
+- end: 1342299600
+  room: Nutt
+  start: 1342296000
+  title: 'Patents: How to Get Them & How to Beat Them'
+- end: 1342303200
+  room: Nutt
+  start: 1342299600
+  title: The Weather is Not Boring! Forecasting, Following, and Photographing Storms
+- end: 1342306800
+  room: Nutt
+  start: 1342303200
+  title: The Original WWII Hackers
+- end: 1342310400
+  room: Nutt
+  start: 1342306800
+  title: Hacking the Cosmos via Crowdsourced Particle Astronomy
+- end: 1342314000
+  room: Nutt
+  start: 1342310400
+  title: IPv6 Now! What Does This Mean?
+- end: 1342317600
+  room: Nutt
+  start: 1342314000
+  title: Social Engineering
+- end: 1342321200
+  room: Nutt
+  start: 1342317600
+  title: 'DKIM: You''re Doing It Wrong'
+- end: 1342324800
+  room: Nutt
+  start: 1342321200
+  title: 'Consciousness Hacking: Leveraging Science and Technology to Engineer Enlightenment'
+- end: 1342364400
+  room: Dennis
+  start: 1342360800
+  title: 'When the Founder is Gone: Open Projects Longevity'
+- end: 1342368000
+  room: Dennis
+  start: 1342364400
+  title: 'Information Distribution in the Arab Spring - No Hacks Required'
+- end: 1342371600
+  room: Dennis
+  start: 1342368000
+  title: DUI/DWI Testing - A Hacker's View of the Technology and Process Behind the BAC and Standard Field Sobriety Test
+- end: 1342375200
+  room: Dennis
+  start: 1342371600
+  title: How to Retrofit the First Law of Robotics
+- end: 1342378800
+  room: Dennis
+  start: 1342375200
+  title: 'DARPA Funding for Hackers, Hackerspaces, and Education: A Good Thing?'
+- end: 1342382400
+  room: Dennis
+  start: 1342378800
+  title: 'Cell Site Location Data and Nontrespassory Surveillance after U.S. v. Jones'
+- end: 1342386000
+  room: Dennis
+  start: 1342382400
+  title: Explosive Steganography
+- end: 1342389600
+  room: Dennis
+  start: 1342386000
+  title: The Open Secure Telephony Network
+- end: 1342393200
+  room: Dennis
+  start: 1342389600
+  title: Old School Phreaking
+- end: 1342396800
+  room: Dennis
+  start: 1342393200
+  title: Closing Ceremonies
+- end: 1342364400
+  room: Sassaman
+  start: 1342360800
+  title: 'Countermeasures: Proactive Self Defense Against Ubiquitous Surveillance'
+- end: 1342368000
+  room: Sassaman
+  start: 1342364400
+  title: Hackers and Media Hype or Big Hacks That Never Really Happened
+- end: 1342371600
+  room: Sassaman
+  start: 1342368000
+  title: 'Brain Chemistry: How Psychoactive Chemicals Hack the Central Nervous System'
+- end: 1342375200
+  room: Sassaman
+  start: 1342371600
+  title: Hacking the Spaces
+- end: 1342378800
+  room: Sassaman
+  start: 1342375200
+  title: Dead in a Pool of Blood & Millions in Net Art
+- end: 1342382400
+  room: Sassaman
+  start: 1342378800
+  title: Privacy by Design - a Dream for a Telecommunications Provider That Uses Strong Cryptography to Ensure Your Privacy
+- end: 1342386000
+  room: Sassaman
+  start: 1342382400
+  title: 'ICANN''s New gTLD Program: Implications on Security, Stability, and Governance'
+- end: 1342389600
+  room: Sassaman
+  start: 1342386000
+  title: 'Anti-Censorship & Anti-Surveillance Tools'
+- end: 1342393200
+  room: Sassaman
+  start: 1342389600
+  title: Anti-Censorship Best Practices
+- end: 1342364400
+  room: Nutt
+  start: 1342360800
+  title: Recent Advances in Single Packet Authorization
+- end: 1342368000
+  room: Nutt
+  start: 1342364400
+  title: Using Browser-based Tools to Open Up the Web
+- end: 1342371600
+  room: Nutt
+  start: 1342368000
+  title: Manufacturing Modern Computer Chips
+- end: 1342375200
+  room: Nutt
+  start: 1342371600
+  title: Hack the Law
+- end: 1342378800
+  room: Nutt
+  start: 1342375200
+  title: 'Why Names Matter: How Online Identity is Defining the Future of the Internet'
+- end: 1342382400
+  room: Nutt
+  start: 1342378800
+  title: 'Re-wired: Hacking the Auditory Experience'
+- end: 1342386000
+  room: Nutt
+  start: 1342382400
+  title: 'Declassifying Government and Undermining a Culture of Insecurity'
+- end: 1342389600
+  room: Nutt
+  start: 1342386000
+  title: The State of HTTPS
+talks:
+- desc: This talk is about protecting 3D printing from industries that are not excited
+    about disruption. It will begin with an overview of the technology behind 3D printing
+    and how the industry is developing and diversifying. It will then cover how intellectual
+    property (IP) relates to 3D printing, and highlight the opportunities that 3D
+    printing gives us to rethink the permission culture that has developed alongside
+    the growth of digital copyright. The talk will end with a description of current
+    IP conflicts connected to 3D printing and examples of steps being taken today
+    to win allies among policymakers in Washington, DC. 3D printing has the possibility
+    of being a widely disruptive and beneficial technology, and the last 15 years
+    have taught us that not everyone embraces widespread disruption. It is possible
+    that industries disrupted by 3D printing will react along the lines of those disrupted
+    by the Internet (negatively). Fortunately, today we have the opportunity to consider
+    what could have been done in the early days of the Internet to insulate it from
+    some of the legal and policy attacks in DC. HOPE attendees and the hacker community
+    at large will benefit from beginning to think through these issues today - before
+    a problem occurs.
+  speakers: Michael Weinberg
+  title: '3D Printing: Making Friends in DC Before People Start Freaking Out'
+- desc: What are we talking about when we refer to activist Distributed Denial of
+    Service (DDoS) attacks? Digital sit-ins? Juvenile bullying and censorship? Something
+    completely different? The rhetorical framings by both advocates and critics of
+    activist DDoS attacks have ultimately fallen short of successfully defining DDoS
+    as an activist tactic. Metaphoric characterizations have failed to describe the
+    reality of activist DDoS attacks, and new analysis is needed if we are to fully
+    understand the tactic's potential. In an effort to come to this new analytical
+    understanding, this talk examines the history of DDoS attacks in activism in general,
+    culminating with the case study of the Anonymous Operation Payback attacks. The
+    discussion will show how the population participating in DDoS attacks has shifted
+    from a professionalized activist core and their peers (such as those participants
+    in the Electronic Disturbance Theater's actions in the 1990s and 2000s) to the
+    diffuse, less professionalized, and less conventionally politically active population
+    that participated in the Anonymous actions. The role the media has played in past
+    activist DDoS actions will also be explored. Evidence will be presented to show
+    that DDoS attacks have shifted in their tactical nature from electronic direct
+    action to a form of media manipulation.
+  speakers: Molly Sauter
+  title: 'Activist DDoS Attacks: When Analogies and Metaphors Fail'
+- desc: Handcuffs always have been a special kind of challenge to lockpickers. This
+    talk will cover advanced manipulation techniques including improvised tools, hidden
+    and 3D-printed keys, and exploiting design weaknesses of various handcuff models.
+    Also, the newest handcuffs produced in the United States and Europe will be shown
+    and explained, some of which haven't even been introduced to police forces yet.
+  speakers: Ray
+  title: Advanced Handcuff Hacking
+- desc: Third Generation Botnets (TGBs) have circumvented the normal stature of the
+    World Wide Web. These botnets harness the power of the HTTP communication model
+    to complete their stealthy operations. To automate the exploit distribution mechanism
+    for infecting users on a large scale, TGBs are collaborating with Browser Exploit
+    Packs (BEPs). TGBs include Zeus, SpyEye, and the present-day botnet ICEX that
+    are explicitly using BEPs such as BlackHole and Phoenix for insidious infections.
+    Several cases of large scale infections have been seen in the recent past. Additionally,
+    TGBs are designed with sophisticated attack techniques such as form grabbing,
+    Ruskill, web injects (WI), web fakes (WF), DNS tampering, and other custom plug-ins
+    to steal information. These attack techniques are heavily relied upon in the Man
+    in the Browser (MitB) paradigm. The infection strategies include programs such
+    as spreaders that infect other software to conduct drive-by-download/drive-by-cache
+    attacks. This talk delves deep into the design of present-day malware andration
+    for the wiring of your brain, now called an Autism Spectrum Disorder (it used
+    to be called Asperger's Syndrome). At HOPE, we're the majority; neurotypicals
+    are the rest of the world that do not understand us and may even be afraid of
+    us. Most on the spectrum are male, but there are a lot of females flying under
+    the radar. This panel will discuss the spectrum and how we fit on it, and how
+    we interact with the world at large.
+  speakers: Aditya K. Sood, Rohit Bansal
+  title: The Autism Spectrum & You
+- desc: People have been using chemistry to hack their bodies and their brains since
+    antiquity. In the past several decades, we have come to understand much more about
+    the processes involved. How is it that certain molecules cause profound alterations
+    in perception? How do they alleviate physical and psychological pain? How do they
+    get people high? Why are some drugs psychoactive and not others? Why are some
+    toxic? This presentation explores the answers to these questions and more.
+  speakers: Jennifer Ortiz
+  title: 'Brain Chemistry: How Psychoactive Chemicals Hack the Central Nervous System'
+- desc: Apophenia is the human ability to perceive patterns and meaning in completely
+    random data sets. The effect is often explored by "ghost hunters" who use electronic
+    tools to find patterns in the environment around us and exploit them as a way
+    to communicate with spirits of the deceased. This discussion will cover the radio-based
+    and electromagnetic technology commonly used for the reception of EVP or "Electronic
+    Voice Phenomena." These devices are often modified radios or home constructed
+    circuits which follow a mixture of basic engineering, empirical results, metaphysical
+    concepts, and, in some cases, pure hucksterism. This talk will look at several
+    of these devices, their underlying circuits, their design philosophy, and the
+    culture that surrounds them.
+  speakers: Wil Lindsay
+  title: Building Radios to Talk to the Dead
+- desc: 'With the rise of smartphones, the government''s use of cell site location
+    data to pinpoint our exact location has grown more widespread (and precise) over
+    time. For years, courts permitted the government to get this location data without
+    a search warrant. And judges that fought against the government''s attempts at
+    getting this data were met with an unfortunate reality of Fourth Amendment jurisprudence:
+    we don''t have any privacy in data we turn over to third parties, like cell phone
+    providers. The U.S. Supreme Court''s recent decision in U.S. v. Jones however,
+    presented a "sea change" in the law of warrantless surveillance, calling into
+    question the future viability of the third party doctrine. This talk will review
+    the law of location data, go in depth into how Jones calls this law into question,
+    and conclude with the steps we need to take in the future in order to safeguard
+    our privacy.'
+  speakers: Hanni Fakhoury
+  title: Cell Site Location Data and Nontrespassory Surveillance after U.S. v. Jones
+- desc: Don't even think of leaving early on Sunday. This is where you get to celebrate
+    the end of another HOPE conference and start looking forward to and planning the
+    next one. (Maybe we'll even tell you what the next one will be called if you stick
+    around.) You'll also hear a lot of the story behind what it took to put this event
+    together. Oh yes, and did we mention that we give away prizes during this final
+    gathering? Well, we do, and they're awesome. You now have all of the reasons you
+    need to stay into the evening on Sunday and get the most out of HOPE. Monday will
+    wait.
+  title: Closing Ceremonies
+- desc: 'Fighting robots have been around since the first gearhead figured out that
+    it was really fun to smash thousands of dollars worth of metal and electronics
+    together in the name of sport. This talk will cover the brief but intense history
+    of combat robotics, how the technology has evolved, where it''s going, and where
+    combat robots happen around the world. This presentation will include video, backstage
+    photos, and insights from the organizers of the only large scale combat robot
+    shows left in the United States: RoboGames and The ComBots Cup.'
+  speakers: David Calkins, Simone Davalos
+  title: 'Combat Robots Then & Now'
+- desc: One hacker's view of the last four years in 3D printing and the expansion
+    of DIY culture. It will cover the state of the art then, the state of the art
+    now, and where we imagine we will be in four years. Far will review what technologies
+    succeeded, what failed, and how 3D printing has grown, warts and all. He'll also
+    talk about the growth of hackerspaces in that time and how the changes in these
+    topics tie together to show the growing pains of both hacker-centric movements.
+    He'll also make another round of predictions and discuss where 3D printing and
+    hackerspaces are going next.
+  speakers: Far McKon
+  title: 'Community Fabrication: Four Years Later'
+- desc: How easy is it to end up with illegal content on your computer? How expensive
+    is it to prove you didn't know about it? What is it like for someone who is arrested
+    for a computer crime? How long do these cases go on for? What does the prosecution
+    provide your attorney and forensic examiner with? This presentation will cover
+    these questions and more, based on experiences as a defense forensic expert.
+  speakers: Joe Cicero
+  title: 'Computer Forensics: Possibility, Probability, Opinion, and Fact'
+- desc: The brain, mind, and ultimately our underlying sense of purpose and well being
+    are the ultimate hacking frontier. But our efforts are more often than not focused
+    on changing our external world to suit some need or desire. What if we flipped
+    that, and focused on transforming our own subjective experience? It's not a new
+    idea - humans have been hacking consciousness for millennia with tools like meditation,
+    breathing, dance, music, ceremony... the list is long. All of these are forms
+    of technology evolved over thousands of years by scientists relentlessly studying
+    the fundamental nature of direct experience. Why? Because human suffering can
+    be eradicated, from the inside out. It's this crowd, not a yogi in a cave, that
+    has the skills and motivation to create modern tools that fundamentally transform
+    our reality. This talk will review the wild and wide open world of consciousness
+    hacking, and show you how to get started.
+  speakers: Mikey Siegel
+  title: 'Consciousness Hacking: Leveraging Science and Technology to Engineer Enlightenment'
+- desc: From governments fighting terrorists to companies hawking products to free
+    online services where you are the product, it seems that everyone wants a piece
+    of you and your personal information. This talk begins with the current state
+    of our surveillance society and delves deeply into countermeasures you and society
+    at large can employ to maintain and protect your right to privacy. Lisa and Greg
+    will deconstruct a surveillance system and examine techniques for defeating or
+    degrading each component. They'll cover technical countermeasures, but also present
+    techniques for influencing policy, law, and the incentives underpinning surveillance
+    activities. Left unconstrained, the problems of the emerging surveillance society
+    will only get worse as more and more sensors and tracking applications invade
+    the physical and digital worlds. You'll leave this talk with a clear understanding
+    of how to protect yourself and with strategies to deflect the trajectory of our
+    surveilled future.
+  speakers: Lisa Shay, Greg Conti
+  title: 'Countermeasures: Proactive Self Defense Against Ubiquitous Surveillance'
+- desc: Much has evolved in the brief 24 months that have passed since the last presentation
+    on this topic, which included a comprehensive overview of the Zeus and SpyEye
+    trojans, popular exploits being used in the wild, and cash out methodologies of
+    the digital crime actors at the time. Today, new digital currencies have emerged,
+    vulnerabilities in popular crimeware kits have been made public, black market
+    credit card trades have become automated, popular crime forums have been hacked
+    and dumped, and the industry based around digital crime analysis and counterintelligence
+    has grown exponentially. In spite of recent arrests of a few individuals, malicious
+    actors are still numerous and able to keep ahead of the law by adapting to the
+    changing environment and hardening their operations. This presentation will go
+    over these developments, as well as the latest digital crime tools, techniques,
+    and methodologies that are currently in use during the present day. The talk will
+    also assess where the current trends will be heading in the future.
+  speakers: Alexander Heid
+  title: 'Crimeware Tools and Techniques of 2012: Past, Present, and Future'
+- desc: Cryptome's digital multimedia presentation of original cartography, animations,
+    video, and architectural documentation will explore the urban implications of
+    the NYPD One Police Plaza Security Plan - a.k.a. Ring of Steel - which locked
+    down Lower Manhattan after 9/11, transforming its Civic Center into a threatscape
+    centered on NYPD headquarters. With its militarized jurisdiction mobilizing through
+    technologies of command, control, communications, intelligence, surveillance,
+    and reconnaissance, the Ring of Steel has declared itself an iconic public space
+    for our time.
+  speakers: Deborah Natsios, John Young
+  title: Cryptome Tracks the NYPD Ring of Steel
+- desc: Mitch Altman caused a stir this spring when he publicly announced that he
+    would not be helping U.S. Maker Faires this year, after it was publicly announced
+    that they received funding from the Defense Advanced Research Projects Agency
+    (DARPA). So, what's the controversy? DARPA, an agency of the U.S. military, has
+    funded many famous projects over the past several decades, including GPS and the
+    Internet. People in DARPA are now making large amounts of grant funding available
+    for hackers and hackerspaces to do projects of their choice, as well as funding
+    for education through hands-on learning, which MAKE Magazine is using to help
+    schools. Does it matter that DARPA is responsible for the development of new technology
+    for the U.S. military with an annual budget of $3.2 billion? What are the ethics
+    of using funds from people or organizations that may or may not be aligned with
+    one's own goals? What are the ramifications for the hacker/maker movement? Is
+    DARPA funding overall a good thing? There is no simple answer. Explore the ethics
+    and ramifications with Mitch, as moderator, and the panelists, as they give their
+    perspectives on this complex set of issues.
+  speakers: Mitch Altman, Psytek, Willow Brugh, Fiacre O'Duinn, Matt Joyce
+  title: 'DARPA Funding for Hackers, Hackerspaces, and Education: A Good Thing?'
+- desc: 0-Day Art is a warez group for art, focusing primarily on digitally represented
+    works. The project was born in response to situations where takedown notices,
+    pay walls, and practices of "taking it offline" threaten the distribution and
+    availability of art online. 0-Day Art seeks to put net art back on the net. Using
+    BitTorrent to package and distribute "art warez" within 24 hours of its initial
+    availability, whenever possible, and social networks to quickly spread the word,
+    the project has received attention from Today and Tomorrow, The Verge, GalleristNY,
+    and ArtInfo, who referred to the project as, "the free-data pirates of the new
+    media world." This is just the start. 0-Day Art exists at the intersection of
+    art critique, hacktivism, and open culture, and manifests itself in many different
+    ways. This talk will cover the history of 0-Day Art, as well as a brief history
+    of "The Scene" (warez, demo, and art). Past projects, current projects and challenges,
+    and the future of 0-Day Art will be discussed.
+  speakers: Jeremiah Johnson (Nullsleep), Don Miller (NO CARRIER)
+  title: 'Dead in a Pool of Blood & Millions in Net Art'
+- desc: It is critically important to obtain and publicize declassified government
+    intelligence documents in order to demystify official narratives of domestic security.
+    Over the last decade, Ivan received about 60 FBI files by using the Freedom of
+    Information Act and by initiating a lawsuit, while writing two books on civil
+    liberties and surveillance. He will discuss his experiences getting government
+    documents and show how new information about surveillance practices can help the
+    American people make better informed judgments about how surveillance systems
+    are developed and deployed. Is it possible for popular democratic participation
+    in the operation of surveillance systems? Whose security is really at stake? How
+    can we counter the creation of a top-down, official "culture of insecurity?"
+  speakers: Ivan Greenberg
+  title: Declassifying Government and Undermining a Culture of Insecurity
+- desc: So you have played with free and open source software? Time for things to
+    get real. Learn how to go from a simple idea like "I need some electronic dice"
+    or "wouldn't it be insanely great if I could control my TV from my phone" to a
+    simple breadboard prototype, on to a custom schematic and then laid out in PCB,
+    sending your Gerber files to China for fabrication, and then carefully soldering
+    it together to scream "it's alive" as your LED glows brightly for the first time.
+  speakers: Matthew O'Gorman, Tim Heath
+  title: 'Designing Free Hardware: Scratching Your Own Itch with a Soldering Iron'
+- desc: 'Covering your tracks out of fear of getting caught with your hands in the
+    digital cookie jar can sometimes get you in more trouble than whatever crime the
+    feds think you may have committed in the first place. This presentation identifies
+    three specific scenarios where the act of trying to cover your digital footprints
+    - oftentimes in innocuous and legal ways - can get you into trouble: the nebulous
+    crime of "anticipatory obstruction of justice," which can cover something as mundane
+    as deleting an email before you''re even suspected of committing (let alone charged
+    with) a crime; the ever-expanding Computer Fraud and Abuse Act, which has been
+    stretched to cover things that are neither fraudulent nor abusive; and the potential
+    problems with encryption. The presentation will conclude with some ways you can
+    protect yourself that can help minimize claims that you obstructed justice.'
+  speakers: Hanni Fakhoury
+  title: Destroying Evidence Before It's Evidence
+- desc: Health care institutions usually have a large number of digital devices, networks,
+    and databases. Lots of data goes through them, but are you aware of how much data
+    that is? And how secure is it? How easily can this data be captured? How easy
+    is it to access those medical devices? Can this be done without being detected?
+    After six years of involvement in health care IT projects, Jorge and Alvaro have
+    some stories and details to share.
+  speakers: Jorge Cortell, Alvaro Gonzalez
+  title: Digital Security in Health Care Institutions
+- desc: DomainKeys Identified Mail (DKIM) is the most effective, widely deployed email
+    forgery countermeasure available today... if implemented correctly. Many of the
+    world's largest and most trusted companies, including some of those driving the
+    standard, have fatally flawed deployments. When the first standard for SMTP was
+    published in 1982, the Internet was a much smaller and safer place. Ever since
+    the first spammers, we've been trying to fix email with various hacks such as
+    callout verification, forward confirmed reverse DNS, PGP, S/MIME, SPF, Sender
+    ID, DomainKeys, DKIM, and an ever-changing collection of filters. All of them
+    have serious flaws. This talk will cover several common mistakes made when deploying
+    DKIM and how they can be exploited to achieve the holy grail of email forgery.
+  speakers: Quincy Robertson
+  title: 'DKIM: You''re Doing It Wrong'
+- desc: This talk will look behind the process, techniques, and technology (or lack
+    thereof) used by law enforcement to identify suspected intoxication. What most
+    people don't know is that there is little in the way of scientific process or
+    technology that is used during the testing of intoxication. The process relies
+    on a strategy of behavioral cues and coercion often geared towards leading an
+    individual to admit wrongdoing. The technology and instruments used by law enforcement
+    for determining sobriety has changed little over the years. Some of these technologies
+    are inherently flawed or misleading. This presentation will take a closer look
+    at the most common techniques and equipment including the Breathalyzer, Horizontal
+    Gaze Nystagmus (HGN), and the instruction led Standardized Field Sobriety Test
+    (SFST). There will be a discussion of how each of these processes works and an
+    enumeration of potential flaws or tactics one should be aware of to ensure fair
+    and unbiased treatment.
+  speakers: WJ, Alex Muentz
+  title: DUI/DWI Testing - A Hacker's View of the Technology and Process Behind the
+    BAC and Standard Field Sobriety Test
+- desc: Though there are many expensive, mainstream solutions for wearable computing,
+    augmented/virtual reality, and alternate reality gaming, there is also a burgeoning
+    community of DIY projects in these areas that focus on self-expression, empowerment,
+    and community building. This panel will provide an overview of several important
+    projects for wearable computing, augmented/virtual reality, and alternate reality
+    gaming. In particular, the session will relate how these projects allow individuals
+    to explore the many possible worlds and identities available to us.  Saturday
+  speakers: Jaime Magiera, Micha Cardenas, Cayden Mak
+  title: Electric Bodies & Possible Worlds
+- desc: The new direction and emergence of hackers working like artists and artists
+    working like hackers brings up a wealth of questions pertaining to these new mediums.
+    How do the practices of "hackers" differ, if at all, from those of "artists?"
+    Should we question when or how a hacker project falls between the lines of art,
+    design, or hacking? The panel will discuss how their work bridges the gap between
+    hacking, new media, and art. Their skills and interests vary quite a lot, but
+    they all use technology to make a statement.
+  speakers: Andrew Cameron Zahn, Katherine Bennett, William Cromar, Chris Thompson
+  title: The Emergence of Hacker as Artist and Artist as Hacker
+- desc: Now that ZigBee is finally appearing in the wild, Travis will take a look
+    back at all the nifty ways of exploiting it. (ZigBee is a low cost, low power,
+    wireless mesh network standard.) This fast-paced lecture features as many practical,
+    real-world exploits as can fit in the time slot. Learn how to extract firmware
+    from a locked Freescale MC13224 by grounding pin 133, how to extract keys from
+    a Chipcon CC2530 by erasing it first, and how to hijack control of other radios
+    with a few hypodermic syringes. You'll also learn how Certicom's proprietary crypto
+    library caused multiple ZigBee Smart Energy Profile stacks to remotely expose
+    private ECC keys and why none of this matters because cleartext traffic is easily
+    found in most major cities.
+  speakers: Travis Goodspeed
+  title: Exploiting ZigBee & the Internet of Things
+- desc: Encryption makes information secret, steganography hides the information in
+    plain sight. We fancy hiding it in a "pile" that most people would avoid. This
+    talk explores hiding steganography in mediums such as archive exploders, file
+    carving exploders, and virus files. There will be a release of the open source
+    tools eZIPlode/asour, magicbomb/-asour and hivasour/hivsneeze.
+  speakers: Eric Davisson aka XlogicX
+  title: Explosive Steganography
+- desc: 'Our favorite sock puppets Kiki and Bubu have some feelings, so they sign
+    up for an online dating site. When the People of China want to become their friend,
+    they are excited. However, sending the People of China a video of themselves proves
+    to be difficult: Their content gets flagged as inappropriate and taken down from
+    YouTube. On the long quest for knowledge which follows, Kiki and Bubu learn all
+    about Internet censorship. And love.'
+  speakers: null
+  title: 'Film Screening: Monochrom''s Kiki and Bubu: Rated R Us'
+- desc: Many of us in the geek community suffer greatly from serious depression. Enough
+    so that several notable hackers have committed suicide over the past couple of
+    years, including the 22-year-old co-founder of Diaspora. Moderated by Robin, a
+    professional geek therapist, the panelists in this session will share their personal
+    histories with depression in hopes of showing that none of us in the geek world
+    need to be isolated with our feelings of being alone, depressed, or suicidal.
+    Is it OK to talk about depression and suicide in the hacker community? This panel
+    thinks it is important to make it so.
+  speakers: Robin DeBates, Mitch Altman, Meredith L. Patterson, Jimmie Rodgers, Daravinne
+  title: Geeks & Depression
+- desc: Media will often report "hacks" that either never actually happened or have
+    extremely flimsy evidence. They then become major news stories through media hype
+    while the reality is seldom reported at the same level. This talk will closely
+    examine several instances of such stories and compare the hype with the reality.
+    Examples will include Kevin Mitnick's compromise of NORAD, the use of steganography
+    by Al Qaeda, the electrical blackout in Brazil, the failure of a water pump in
+    Illinois, and others. Close attention will be paid to the media's role in presenting
+    these stories and how they morphed from purely circumstantial to quoted facts.
+    The structure of a hyped story will be examined so that it can be easily identified
+    and methods of combating the hype will be discussed.
+  speakers: Space Rogue
+  title: Hackers and Media Hype or Big Hacks That Never Really Happened
+- desc: 'In Richard Stallman''s "On Hacking" from 2000, he addresses the stigma attached
+    to the notion of "hacker," while clarifying the act of hacking as a creative mindset
+    that encourages playful/clever exploration of established cultural forms, from
+    eating utensils to practical jokes, as opposed to methods for security breach.
+    Beyond the more obvious examples of hacking, Stallman applies this mindset to
+    two specific music compositions: "Ma Fin Est Mon Commencement" by 14th century
+    French composer Guillaume de Machaut and "4''33" by 20th century American avant-garde
+    composer John Cage. The former is a palindromic music composition important to
+    the development of polyphonic music and the latter is a composition written without
+    musical notes. By referring to these two innovations as hacks more then music
+    compositions, Stallman makes a cultural connection between hackers and artists
+    - that hacking is innately creative. This presentation/demonstration will examine
+    the notion of hacking and its connections to composer John Cage, music improvisation,
+    and re-purposed instrumentation including radios and transmitters as instruments,
+    circuitbent instruments, and the DIY aspect of software and hardware instruments
+    in the demo and chip music scenes.'
+  speakers: Tamara Yadao, Nicole Carroll, Joshua Kopstein
+  title: 'Hacking Mindsets: Conceptual Approaches to Transmission Art, Improvisation,
+    Circuitbending, and Gaming Technology'
+- desc: The Cosmic Cube is a proposed "desktop" astroparticle or cosmic ray detector
+    enabling ad-hoc formation of cosmic ray telescopes between cube operators. The
+    speaker will address the use of peer to peer networks of detectors for investigating
+    the nature of the flux of high energy cosmic rays and how the random nature of
+    detection events might also be applied to information security.
+  speakers: Ray H. O'Neal, Jr.
+  title: Hacking the Cosmos via Crowdsourced Particle Astronomy
+- desc: In 2009, Johannes and Frank Apunkt Schneider published their critical pamphlet
+    "Hacking the Spaces," causing a shitstorm in forums and mailing lists. The publication
+    of the text on Boing Boing was even called a "PR disaster for the hackerspaces
+    movement" by various members of the scene. Three years later, the discussion is
+    still raging. Are hackerspaces the inclusionist paradises that their members want
+    them to be, or are they just white middle-class boys' clubs generating nothing
+    more than a few more streamlined members of "Generation Self-Exploitation?" This
+    talk is an invitation to look at the debate and analyze its potential and drama.
+    We promise dramatic potential and the potentially dramatic!
+  speakers: Johannes Grenzfurthner, Sean Bonner
+  title: Hacking the Spaces
+- desc: Recent bills such as ACTA, COICA, and SOPA in legislatures worldwide demonstrate
+    that there exists a fundamental disconnect between hackers and politicians. Worse,
+    the people charged with dealing with law on the ground, the lawyers, rarely have
+    any significant technical background obtained within the last few decades. This
+    must change. It's all well and good to write your congressperson or donate to
+    the EFF, but it's not enough; we need hackers to go to law school. Lawyers - whether
+    they work as attorneys, or bring their knowledge of the law back to other fields
+    - are uniquely situated to effect direct change on politics, social issues, and
+    the law on the ground (where they arrest poor hackers) and, unlike many fields,
+    it's not enough to be self-taught. This presentation will focus on the utility
+    of the hacking ethos within the law, as well as the "law school experience," technical
+    bits about actually getting in, and how to keep yourself from going nuts while
+    spending three years surrounded by those who can't tell their megabytes from their
+    overbites (and are terrified by Wireshark, let alone the more subtle tools in
+    existence). Expect stories, humorous anecdotes, and terrifying lapses in judgment.
+  speakers: Brendan O'Connor
+  title: Hack the Law
+- desc: During the Arab Spring of 2011, agents of Telecomix, members of Anonymous,
+    and a multitude of independent hackers took direct action to aid dissidents by
+    helping to circumvent censorship, disseminating photographs and video footage
+    of violence against peaceful protesters, redeploying dialup modem pools, and using
+    DNS hijacking to warn people of online surveillance. During this time, some interesting
+    discoveries were made by Telecomix, namely, man in the middle attacks with forged
+    SSL certificates and the installation of deep packet inspection hardware in the
+    networks of a number of Syrian ISPs for the purpose of Internet censorship. The
+    activists used logs from Blue Coat web gateway devices to reverse engineer the
+    rulesets Syrian authorities were using, so as to better advise protesters on methods
+    of evasion. Telecomix was also instrumental in tracing where the Blue Coat DPI
+    devices were sourced from and how they were delivered to Syria in violation of
+    United States export regulations. The presenters (all agents of Telecomix) were
+    among those active during the Arab Spring, and will discuss what surveillance
+    measures they encountered, some of the threats against protesters in Syria and
+    Egypt, and how strategies for supporting protesters evolved in response to the
+    changing situation on the ground.
+  speakers: Peter Fein, Meredith L. Patterson, The Doctor
+  title: 'Hacktivism, Tools, & the Arab Spring'
+- desc: It's amazing what can be accomplished with just a few keystrokes. Changing
+    user passwords, formatting disks, and scanning a network are each one command
+    away in most modern operating systems. What if you had two minutes of access on
+    a system? Is this enough time to accomplish information gathering or exploitation
+    on even the most hardened system? It just might be. Through a combination of software
+    and hardware, hundreds of keystrokes a minute can be flawlessly injected into
+    any computer to gain control of system resources. The HIDIOUS (HID Injection Over
+    USB Suite) allows for easy configuration of keyboard/mouse injection attacks through
+    USB.
+  speakers: JP Dunning
+  title: HIDIOUS Methods of Keystroke Injection
+- desc: '"Portable" computing began with handheld calculating aides such as the abacus
+    and slide rule, continued in the 1950s with mainframes mounted inside Army trucks,
+    and emerged in suitcases, briefcases, and even pockets in the 1970s. All throughout
+    this rich history, there were clever, funny, and security-themed hacks involved.
+    In some cases, there were hacks needed just to construct the systems, and in others
+    there were hacks in system usage. This talk will explain a dozen examples from
+    which modern hackers can learn.'
+  speakers: Bill Degnan, Evan Koblentz
+  title: Historic Hacks in Portable Computing
+- desc: An overview of the history of 2600net for at least the last ten years. This
+    talk will cover 2600net infrastructure and policies, why it is the way it is,
+    along with how to communicate securely and build trust with users and friends.
+    Who are the hosts and operators? Meet the crew! What other communities are around
+    2600 and the IRC network? How can you get involved? Special attention will be
+    given to DDoSes, LulzSec, Anonymous, th3j35t3r syndrome, and all sorts of other
+    challenges. Expect other staffers and channel operators to stop in for this talk.
+  speakers: Andrew Strutt aka r0d3nt
+  title: Hosting irc.2600.net - My Life with the Thrill Kill Cult
+- desc: Modern vehicles are essentially mobile computers and controller networks.
+    On average, there are around ten embedded controllers in a vehicle. These controllers
+    are responsible for running the engine, locking and unlocking the vehicle, sounding
+    the horn, and much, much more. These networks are very different from current
+    computer networks. This talk will help you understand how to get started, what
+    information is on the vehicle network, and how you can use this data to get information
+    from and send commands to these controllers. Additionally, this talk will list
+    the current tools available for communicating with vehicles and how to interpret
+    the communications between the controllers.
+  speakers: Robert Leale
+  title: How to Communicate with Your Car's Network
+- desc: We live with robots now, as we always knew we would. But they have no hands
+    or feet. We carry them in our pockets. They see what we see. They hear what we
+    hear. They always know where we are. But they do not work for us, and they are
+    not programmed to obey the First Law. Profit made them, profit runs them, and
+    they hurt us every day. Free Software can retrofit the First Law of Robotics into
+    the robots we call cell phones, but those who control the robots don't want freedom
+    inside. That's where we come in. This talk will discuss how.
+  speakers: Eben Moglen
+  title: How to Retrofit the First Law of Robotics
+- desc: The Internet is about to rapidly expand. Through ICANN's new generic top level
+    domain (gTLD) program - for the first time ever - individual entities can customize
+    the space to the right of the dot. While currently only 22 gTLDs exist (e.g.,
+    .com, .net, .org, etc.), on June 13, ICANN announced that it had received an unexpected
+    1,930 applications for new gTLDs, ranging from applications for .AARP to .ZULU.
+    This talk will examine the security and stability concerns that arise from the
+    rapid expansion of the Internet's root zone. Also included will be the current
+    state of the new gTLD program, the security issues that plagued the application
+    process in April, and how this new model of gTLD ownership (with large swaths
+    of Internet real estate in the hands of private entities) will change our current
+    model of Internet governance.
+  speakers: Alexander Urbelis
+  title: 'ICANN''s New gTLD Program: Implications on Security, Stability, and Governance'
+- desc: This talk examines the topic of socialbots - realistic, automated bot identities
+    online that are optimized to reliably elicit certain types of social behaviors
+    in groups of users on platforms like Facebook and Twitter. Deployed en masse,
+    large swarms of these bots are able to subtly (and not-so-subtly) shape the ways
+    in which communities grow, connect, and behave on these platforms. Insofar as
+    people increasingly come to rely on these networks into the future, the bots hold
+    the promise (and threat) of shaping not only the social universe of opinions and
+    influence, but real world coordination and action among people as well. Ultimately,
+    this talk will conclude by discussing how these bots suggest the evolution of
+    classic social engineering into a broader social hacking - which approaches human
+    networks as if they were computer networks and applies similar principles for
+    their compromise and defense against the social influence of third parties.
+  speakers: Tim Hwang
+  title: I'm Not a Real Friend, But I Play One on the Internet
+- desc: From pirate radio, livestreaming, and video-sharing apps, to asynchronous
+    mesh networks, Bluetooth, SMS/MMS, i2p, and Tor hidden services, the ways that
+    activists in the Middle East and North Africa get critical information out are
+    far more varied than most people know. With so much attention given to leaks recently,
+    it's easy to perceive the "liberation" of information as involving major hacks
+    of critical systems. But reality is, as always, much more complex and interesting.
+    This talk will show just how distribution channels in the Middle East are created
+    and maintained, and the positive impacts they can have.
+  speakers: Griffin Boyce
+  title: Information Distribution in the Arab Spring - No Hacks Required
+- desc: Devices are being developed to monitor what you do in your home. Even without
+    Orwell's telescreen (which is under development), there is a lot of information
+    that can be collected about your Activities of Daily Life. The beneficial goals
+    of these devices include promoting positive things like water conservation, helping
+    people improve their personal health, and monitoring people in assisted living
+    environments. This talk will describe the technology of the devices used to collect
+    and transmit this data, and discuss some of the social, ethical, political, economic,
+    privacy, and legal issues raised. What could go wrong? Could these systems be
+    used by governments to micromanage personal behavior? Could employers use these
+    systems to regulate employees' off-duty behavior? Could such data be used to convict
+    people in court? Could this data be stolen, abused, or falsified? The answer for
+    each of these questions is "yes."
+  speakers: John McNabb
+  title: Infrastructure Mediated Sensing of Whole-Home Human Activity
+- desc: 'A dark and seedy journey to explain the real driver behind Internet innovation:
+    porn. How an economy built on the ultimate satisfaction just a click away has
+    driven technological advances. Racy browsing habits involving our innermost secrets,
+    vulnerable parties, and criminal syndicates have driven malicious code and subsequent
+    security advances. Broad ranging censorship involving much more than pornography
+    has been the end result in attempts to reign in such "unhealthy" habits by well-intentioned
+    governments and organizations. This talk will include a timeline of pornography
+    on the Internet, related security threats, an overview of industry economics (legal
+    and ~illegal), and related censorship. Audience discussion and participation is
+    welcome, but please, no BYOP.'
+  speakers: Chris Kubecka
+  title: The Internet is for Porn! How High Heels and Fishnet Have Driven Internet
+    Innovation and Information Security
+- desc: 'On June 6th, World IPv6 Launch Day occurred, another step in the replacement
+    of the aging IPv4 Internet. Adoption of IPv6 as of June 17th is 6.9 percent in
+    Romania, 4.5 percent in France, 1.4 percent in Japan, 1 percent in the United
+    States, 0.58 percent in China, and 0.28 percent in Russia. This is up from less
+    than 0.006 percent within the past two years. This presentation will answer the
+    questions: "What is the risk of adopting IPv6?", "What is the risk of not adopting
+    IPv6?", and "What are the new opportunities for hackers?"'
+  speakers: Joe Klein
+  title: IPv6 Now! What Does This Mean?
+- desc: With a few small seeds of facts, digital and computer historian Jason Scott
+    will draw together a multi-medium presentation of events, terms, facts, and references
+    to set you off on a journey of learning for the rest of the year. Combining material
+    from his three in-production documentaries and years of research, attendees will
+    be given the threads that pull massive airships of knowledge out of the sky and
+    into your minds. Formal attire welcome but not mandatory - participation encouraged
+    - paradigms blown - mysteries solved.
+  speakers: null
+  title: Jason Scott's Strange and Wonderful Digital History Argosy
+- desc:  null
+  speakers: null
+  title: Keynote Address - William Binney
+- desc: null
+  speakers: null
+  title: Keynote Address - The Yes Men
+- desc: As grassroots Internet culture grows and flourishes, pushing out into international
+    mainstream recognition, top-down cultural models are threatened and fight back,
+    while governments attempt to quash and chill dissent empowered and organized by
+    the Internet. How are people from the Internet fighting back? What does that even
+    mean? And will it be enough? MemeFactory is three guys that give tightly rehearsed
+    performative lectures about Internet culture. Their talks document, explore, and
+    critique the emerging culture of the Internet in a visually-focused, fast-paced
+    style that mimics the experience of having ten browser windows open while talking
+    on the phone and watching a YouTube video.
+  speakers: Mike Rugnetta, Stephen Bruckert, Patrick Davison
+  title: '"Kill The Internet" - MemeFactory'
+- desc: 'Law enforcement and lawmakers have been showing much more of an interest
+    in regulating the Internet. The hacker community needs to understand how certain
+    legal methods work like IT infrastructure attacks. This talk will explain legal
+    processes such as subpoenas, search warrants, and e-discovery as IT infrastructure
+    attacks, as well as how to talk to lawyers. This is an evolving topic as the environment
+    has been constantly changing and, of course, has become more complicated. Also
+    included: a discussion on the recent Megaupload and other domain seizures, forced
+    IP and search engine blocking, and a question and answer session on related matters.'
+  speakers: Alex Muentz
+  title: Legal Processes As Infrastructure Attacks
+- desc: 'This talk will include background on the concepts of direct, representative,
+    and liquid democracies; the tradeoffs inherent in different types of government;
+    interesting problems for online voting and policy authorship; examples of similar
+    systems in different countries; discussion of some legal context (e.g. electronic
+    signatures and the democratized use of Super PACs); a practical road map to gaining
+    full control over your legislature; and Q&A. Make Your Laws (makeyourlaws.org)
+    is an open source, nonprofit, practical project that aims to replace all existing
+    legislatures with online liquid democracies. The aim is simple: to let you make
+    your laws.'
+  speakers: Sai
+  title: 'Make Your Laws: Practical Liquid Democracy'
+- desc: Modern computer chips are using transistors with features as small as 22nm.
+    They are produced in factories that are 10,000 times cleaner than an operating
+    room that can think like Skynet. Combined, the chips they produce run everything
+    from your cell phone to the Internet itself. While outsiders might see it as the
+    realm of multi-billion dollar corporations, in reality, it has been achieved through
+    a hardcore application of the hacker mindset. Each new advancement involves hacking
+    the theories of electrical engineering, hacking waves of light, and sometimes
+    hacking physics. This talk will go over how and why the design of a modern nanoscale
+    transistor was developed, as well as discuss the processes used to build them,
+    and the incredible equipment that makes it all possible. Plus some fun stories
+    about what goes wrong.
+  speakers: QueueTard
+  title: Manufacturing Modern Computer Chips
+- desc: The world of locks is one in which, so very often, things old become new again.
+    Master-keyed lock systems fall into this category. For years now, many people
+    have shared advice and stories regarding methods of attacking master-keyed systems.
+    This year, at HOPE Number Nine, The Open Organisation Of Lockpickers will be running
+    a contest in which attendees may attempt to decode a master-keyed system during
+    the weekend. If you stop by this presentation, you'll be a few steps ahead of
+    everyone else who is attempting this interesting and different lockpicking game
+    at HOPE Number Nine - and you'll learn about how master-keyed systems are often
+    vulnerable to many surreptitious attacks.
+  speakers: Deviant Ollam, Babak Javadi
+  title: Mastering Master-Keyed Systems
+- desc: Reconnaissance on a network has been an attacker's game for far too long.
+    Where's the defense? Nmap routinely evades firewalls, traverses NATs, bypasses
+    signature-based NIDS, and gathers up the details of your highly vulnerable box
+    serving Top Secret documents. Why make it so easy? This talk will explore how
+    to prevent network reconnaissance by using honeyd to flood your network with low
+    fidelity honeypots. Dan will then discuss how this lets us constrain the problem
+    of detecting reconnaissance such that a machine learning algorithm can be effectively
+    applied. (No signatures!) Some important additions to honeyd will also be discussed
+    along with a live demonstration of Nova, a free software tool for doing all of
+    the above.
+  speakers: Dan \"AltF4\" Petro
+  title: Messing with Nmap through Smoke & Mirrors
+- desc: This talk is an introduction and overview of a new and exciting field in robotics
+    called Self Reconfiguring Modular Robotics (SRCMR). SRCMR is basically about modules,
+    like Lego pieces, that can assemble themselves into anything you want (self reconfigure).
+    You will hear how this makes a prosperous, growing, and environmentally friendly
+    world accessible for all of us. This is possible because the stuff you need is
+    assembled from the same modules, again and again, using no resources other than
+    small amounts of energy. This drastically reduces the resources we use, and de-couples
+    growth and environmental problems. Because the modules are programmable, SRCMR
+    will also make the world completely hackable, introducing many interesting opportunities
+    and challenges.
+  speakers: Per Sjoborg
+  title: '"No Natural Resources Were Hurt Assembling This Sofa"'
+- desc: The last year has seen an Internet-wide debate over real names, pseudonyms,
+    and anonymity online, especially on social networks and in the comment sections
+    of blogs and newspapers. Facebook has required users to use their real names from
+    the very beginning and newspapers have increasingly embraced the same requirement
+    for commenting on their websites. Proponents of real name policies cite increased
+    civility and quality of content. But pseudonymity and anonymity have a long history
+    in public discourse, and they are essential for privacy and speaking truth to
+    power. This talk will examine the debate over anonymity and pseudonymity online,
+    with a focus on Facebook and the Arab Spring, and Google Plus and Nymwars.
+  speakers: Eva Galperin
+  title: 'Nymwars: Fighting for Anonymity and Pseudonymity on the Internet'
+- desc: The Prometheus Radio Project started with radio pirates fighting for local
+    groups to be able to run community radio stations. Prometheus builds, supports,
+    and advocates for community radio stations which empower participatory community
+    voices and movements for social change. They are currently creating a number of
+    tools to support community groups as they prepare for an upcoming once-in-a-lifetime
+    chance to apply for low power radio licenses. RadioSpark is an online hub where
+    applicants, engineers, lawyers, and other supporters can exchange knowledge and
+    plan together. RFree is free and open source software that applicants can use
+    to find available channels and prepare their FCC applications.
+  speakers: Maggie Avener, Ana Martina
+  title: 'Occupy the Airwaves: Tools to Empower Community Radio Stations'
+- desc: Members of The Old School will regale the assembled throngs with tales of
+    "The Golden Age of Phone Phreaking." Those were the days of in-band signaling
+    when anyone who could put out a tone of 2600 hertz could control the "Long Lines"
+    network.
+  speakers: Cheshire Catalyst, John Draper, Tom Santa Monica
+  title: Old School Phreaking
+- desc: All of the necessary technologies and communications standards exist today
+    for voice communications that are as secure as OpenPGP email. Both proprietary
+    and open source solutions exist for desktop and mobile devices that implement
+    the necessary bits to provide a solution without dependence upon one global service
+    provider. ostel.me provides both a service and an application for the Android
+    OS that is only marginally more complex to use than dialing an existing phone
+    number, while still based entirely on open standards like SIP and ZRTP. The app
+    is experimental and is based on existing open source client code provided by the
+    CSipSimple, pjsip, and zrtp4pj projects.
+  speakers: Lee Azzarello, Mark Belinsky
+  title: The Open Secure Telephony Network
+- desc: A look at some of the history of code breakers in the second World War. Bletchley
+    Park in the United Kingdom was the home of the original WWII "hackers" and George
+    will describe what goes on there today, as well as what Navy cryptologists managed
+    to achieve during the war.
+  speakers: George Keller
+  title: The Original WWII Hackers
+- desc: Patents are a distasteful reality for hackers, open source programmers, and
+    entrepreneurs alike. This talk aims to provide a working knowledge of how to read
+    a patent, what is required to obtain patent protection, and how to defend yourself
+    against patent lawsuits. This talk is an academic discussion of patent law and
+    should not be construed as legal advice.
+  speakers: Ed Ryan
+  title: 'Patents: How to Get Them & How to Beat Them'
+- desc: Five years in the making, Phil has finally finished Phone Phreaks, his book
+    on the history of phone phreaking from the 1950s to the 1980s. In this talk, he
+    will weave together the evolution of phone phreaking with the backstory of the
+    writing of his book. From giving John "Cap'n Crunch" Draper a piggyback ride around
+    his apartment in order to secure an interview to cleaning out Joybubbles's apartment
+    after his untimely demise, Phil's research took him through the maze of twisty
+    little passages that wind through the history of this underground hobby. Some
+    of the characters you'll meet include the phone phreak CEO of an electronic warfare
+    company, a cell of Stony Brook students busted for blue boxing, and the mysterious
+    and cantankerous head of the International Society of Telephone Enthusiasts. You'll
+    also get a behind the scenes tour of the NSA and FBI's phone phreak files and
+    the 400 Freedom of Information Act requests necessary to get them into the light
+    of day.
+  speakers: Phil Lapsley
+  title: 'Phone Phreak Confidential: The Backstory of the History of Phone Phreaking'
+- desc: APCO Project 25 ("P25") is a suite of wireless communications protocols used
+    in the United States and elsewhere for public safety two-way (voice) radio systems.
+    The protocols include security options in which voice and data traffic can be
+    cryptographically protected from eavesdropping. This talk analyzes the security
+    of P25 systems against passive and active adversaries. The panel found a number
+    of protocol, implementation, and user interface weaknesses that routinely leak
+    information to a passive eavesdropper or that permit highly efficient and difficult
+    to detect active attacks. They found new "selective subframe jamming" attacks
+    against P25, in which an active attacker with very modest resources can prevent
+    specific kinds of traffic (such as encrypted messages) from being received, while
+    emitting only a small fraction of the aggregate power of the legitimate transmitter.
+    And, more significantly, they found that even passive attacks represent a serious
+    immediate threat. In an over-the-air analysis conducted over a two year period
+    in several U.S. metropolitan areas, they found that a significant fraction of
+    the "encrypted" P25 tactical radio traffic sent by federal law enforcement surveillance
+    operatives is actually sent in the clear - in spite of their users' belief that
+    they are encrypted - and often reveals such sensitive data as the names of informants
+    in criminal investigations. Aside from being important practical vulnerabilities
+    in their own right, the problems in P25 secure radio represent an example of a
+    class of problem that the security and cryptography community has largely ignored.
+    Radio protocols typically do not fit the negotiated two-way communication model
+    under which most security protocols are designed (and to which our community devotes
+    most of its attention). One-way protocols, like P25, in which there is no negotiation
+    or exchange between the transmitter and the receiver are actually rather unusual,
+    and relatively little is known (or written in the literature) about robust design
+    principles for them. In this talk, new approaches to protocol design will be suggested
+    that might allow us to do better.
+  speakers: Sandy Clark, Matt Blaze, Travis Goodspeed
+  title: Practical Insecurity in Encrypted Radio
+- desc: Many open hardware projects use integrated circuits (ICs), but these ICs are
+    literal black boxes because the manufacturers do not provide the silicon source
+    code. There's also no way for makers to cost effectively modify and recompile
+    this source code to fabricate custom ICs. But there is hope! Printable electronics
+    based on novel materials and low cost fabrication techniques have the potential
+    to enable open hardware at a whole new level. This talk will provide an overview
+    of current printable electronics technology and discuss the issues that will arise
+    as open hardware moves beyond silicon. What happens to open hardware when you
+    can download and print an entire electronics project? How can we ensure that the
+    materials used are open, widely available, and safe? How can we make IC design
+    accessible to non-engineers? What should a Thingiverse for printable electronics
+    look like? What are the legal issues surrounding printable electronics?
+  speakers: John Sarik
+  title: Printable Electronics & the Future of Open Hardware
+- desc: 'With a few keystrokes, it is now possible for an investigator to determine
+    a target''s location, activities, finances, sexual orientation, religion, politics,
+    habits, hobbies, friends, family, their entire personal and professional histories...
+    even accurately predict what they will do and where they will go in the future.
+    Without leaving the office, a government agent can surveil a subject and "watch"
+    their activities 24/7/365: where they drive, when they walk down the street, if
+    they attend a church or synagogue or mosque or a demonstration or visit an abortion
+    clinic or a "known criminal activity location" or meet with a "targeted person"
+    or a disliked political activist. There is no longer any place to hide. Since
+    the very first HOPE conference, private investigator extraordinaire Steven Rambam''s
+    lectures on privacy have kept attendees ten years ahead of the curve regarding
+    surveillance technologies, investigative techniques, and the assaults upon personal
+    privacy by government''s Big Brothers and private industry''s even bigger Big
+    Sisters. His lectures described cell phone "pinging" eight years before it was
+    used by the FBI and "Google Glasses" four years before they were announced. The
+    past two years have seen the largest expansion of surveillance technologies ever
+    and, in a wide ranging three hour lecture packed as always with dozens of real-world
+    examples and case studies, Steven will provide a terrifying update on our absolute
+    loss of privacy. His lecture is not for the weak of heart - or for those afraid
+    of drones.'
+  speakers: Steven Rambam
+  title: Privacy - A Postmortem (or Cell Phones, GPS, Drones, Persistent Dataveillance,
+    Big Data, Smart Cameras and Facial Recognition, The Internet of Things, and Government
+    Data Centers Vacuuming Google and Facebook, Oh My!)
+- desc: This is a talk about launching a nonprofit organization that has some unique
+    and disruptive ideas which challenge some of the basic assumptions about how modern
+    communications systems work and that have the potential to transform the telecommunications
+    and ISP industries with regards to privacy and freedom of expression. The seemingly
+    dueling concerns of cybersecurity and privacy can both be addressed to some degree
+    by the promotion of ubiquitous and opportunistic encryption, which would allow
+    for an important political consensus between parties interested in either of those
+    two issues. This topic and content is relevant to the hacker community and to
+    HOPE attendees because of the implications of dragnet surveillance that has become
+    commonplace in recent years, fueled in part by advances in technology and due
+    to a shift towards more and more communication happening in the digital domain.
+  speakers: Nick Merrill
+  title: Privacy by Design - a Dream for a Telecommunications Provider That Uses Strong
+    Cryptography to Ensure Your Privacy
+- desc: Do you care about the privacy of your website's visitors, but also depend
+    on social media to get your message out? Do you want to protect your visitors'
+    anonymity in case you or a third party service you use gets subpoenaed? Do you
+    want to be able to get meaningful and pretty analytics without third parties tracking
+    your visitors? Can some kid in a coffee shop really hijack your users' accounts
+    that easily? Chances are Google, Facebook, and Twitter know as much about your
+    website's visitors as you do, IP addresses and user agents are sprinkled about
+    your server's filesystem, Google Analytics is watching everyone's every move,
+    and some kid in a coffee shop is already pwning your users. But it doesn't have
+    to be this way! This technical talk will cover tricks that web developers and
+    sysadmins can use to minimize the privacy problems that plague the modern web.
+  speakers: Micah Lee
+  title: Privacy Tricks for Activist Web Developers
+- desc: Project Byzantium (a working group of HacDC) is proud to announce the release
+    of Byzantium Linux, a live distribution which makes it fast and easy to build
+    ad-hoc wireless mesh networks. Due to the actions of certain governments (such
+    as those of Egypt, Tunisia, and Syria), alternative data networks are becoming
+    more and more important as a means to communicate, organize, and coordinate. Project
+    Byzantium aims to help support (and in some cases, replace) damaged or compromised
+    Internet infrastructure and services with commodity wi-fi enabled equipment and
+    a flexible, improvisable architecture. The presenters will discuss some of the
+    engineering challenges faced and solutions that were developed to overcome them,
+    including automatic network configuration and interaction with mobile clients
+    that have limited capabilities.
+  speakers: The Doctor, Haxwithaxe, Sitwon
+  title: 'Project Byzantium: An Ad-Hoc Wireless Mesh Network for the Zombie Apocalypse'
+- desc: What should you do if the police show up at your door to seize your computer?
+    If they ask for passwords or passphrases, do you have to turn them over? Can they
+    search your phone if they arrest you during a protest? What about when you're
+    crossing the border? Your computer, phone, and other digital devices hold vast
+    amounts of sensitive data that's worth protecting from prying eyes - including
+    the government's. The Constitution protects you from unreasonable government searches
+    and seizures, but how does this work in the real world? This talk with help you
+    understand your rights when officers try to search the data stored on your digital
+    devices, or keep it for further examination somewhere else. The constitutional
+    protections that you have in these situations, and what their limits are will
+    be discussed, along with technical measures you can take to protect the data on
+    your devices.
+  speakers: Marcia Hofmann
+  title: Protecting Your Data from the Cops
+- desc: Drones are no longer a scary possible future of surveillance and remote force
+    - they're here. Internationally, drones are being deployed for military action
+    and observation. At home, police departments, border patrols, and others are acquiring
+    UAVs and developing programs to fly them; there's even talk about adding "less
+    lethal" arms to these domestic drones. Think Tasers and rubber bullets shot from
+    the sky. But a series of alarming events over the past few years have demonstrated
+    that many of these unmanned vehicles are dangerously vulnerable to exploits, leading
+    to intercepted data, flight failures, and even remote takeovers. In this talk,
+    Parker and Trevor will explain the privacy and security implications of some of
+    the most sensational drone exploits and the weaknesses that enabled them. They'll
+    also go over the work of communities and individuals that have been hacking drones
+    from scratch, and what their efforts mean for our future understanding and regulation
+    of drones.
+  speakers: Trevor Timm, Parker Higgins
+  title: 'Pwn the Drones: A Survey of UAV Hacks and Exploits'
+- desc: Attackers are starting to move on from simple attacks, mainly because users
+    are beginning to figure out that the free adult entertainment or chat app shouldn't
+    be sending SMS messages to expensive numbers. They're leveraging techniques from
+    PC malware like server-side polymorphism, vulnerability exploits, botnets and
+    network updates, and preemptive/direct attacks against security software. It's
+    not all that bad. Attackers aren't going out of their way to discover their own
+    vulnerabilities or writing their own exploits. They're happy to re-purpose the
+    work done by legitimate developers, security researchers, and the rooting community.
+    If the malware has gotten trickier, what are those tricks? A look at portions
+    of code and how earlier research is adapted by attackers.
+  speakers: Jimmy Shah
+  title: Real Advances in Android Malware
+- desc: Single Packet Authorization (SPA) is a security technology whereby vulnerable
+    services are protected behind a default-drop packet filter and temporary client
+    access is granted via passive means. This talk will present recent advances in
+    the open source "fwknop" SPA project, including clients for Android and the iPhone,
+    support for the PF firewall on OpenBSD, the ability to seamlessly integrate SPA
+    into cloud computing environments with the new FORCE_NAT mode, and deploying fwknop
+    on embedded systems with limited computing resources. In addition, some discussion
+    will be devoted to other SPA implementations and the various tradeoffs that must
+    be made by any project that provides either port knocking or SPA functionality.
+  speakers: Michael Rash
+  title: Recent Advances in Single Packet Authorization
+- desc: Re-wired is a wearable device that translates ambient sound into haptic feedback
+    using bone conduction technology. Amelia began the project when she lost hearing
+    in one ear. She was inspired by her new experience of sound that combined tympanic
+    hearing and vibrational resonance. Amelia began experimenting with less invasive
+    methods for augmenting hearing, using vibration instead of surgery and implants.
+    Re-wired considers the possibility of empowering patients to place their care
+    into their own hands by building simple devices to take care of simple problems.
+    This will be a participatory talk on DIY medical technology, including our comfort
+    level with augmenting our own bodies.
+  speakers: Amelia Marzec
+  title: 'Re-wired: Hacking the Auditory Experience'
+- desc: Last year, a few groups of independent security researchers disclosed significant
+    vulnerabilities in SCADA systems and PLCs. This panel brings together these security
+    researchers to discuss their findings, initial goals for doing the research, disclosure
+    processes, and difficulties and surprises encountered. These researchers, independently
+    and without corporate or "nation state" funding, decimated the popular belief
+    that "security via obscurity" works to protect critical infrastructure.
+  speakers: Tiffany Rad, Teague Newman, and guests
+  title: SCADA/PLC Exploitation & Disclosure
+- desc: Movies are exciting. Things crash and burn. Bolts and fists fly. There are
+    bangs and kabooms. People go to the cinemas in order to experience new worlds.
+    But cinema is about to lose its prime source of narrative, having so far tethered
+    to physical action that can be filmed. Cinema needs tempo. It needs speed. The
+    "movement-image" (Gilles Deleuze) depends on physical action onto which the cameras
+    can point. Yet, in contrast, the real world of non-cinema is losing physical action
+    day by day. It is a time of abstract, optically unpresentable processes in networks
+    and data systems. This regress of visual displayability is rather daft. Cinema
+    has lived well on it for more than a hundred years. It's easy to create a feature
+    film about a bank robbery, but that's anachronistic. Some of the most important
+    crimes exist as electronic money movements between international stock exchanges.
+    Hollywood cinema, on the other hand, still hasn't evolved beyond anything better
+    than banal sequences straight out of an Errol Flynn movie. How can we accurately
+    portray the stories of our (new) world? All those dramas and comedies? All those
+    crimes and stories? The people at monochom are working on a feature film called
+    Sierra Zulu. This talk will discuss their challenges and hopes - and why they
+    think you can help.
+  speakers: Johannes Grenzfurthner
+  title: Sierra Zulu. Or How to Create a Feature Film About the Digital Age - and
+    Why That's Pretty Hard
+- desc: As smartphones enter the workplace, sharing the network and accessing sensitive
+    data, it is crucial to be able to assess the security posture of these devices
+    in much the same way we perform penetration tests on workstations and servers.
+    However, smartphones have unique attack vectors that are not currently covered
+    by available industry tools. The smartphone penetration testing framework, the
+    result of a DARPA Cyber Fast Track project, aims to provide an open source toolkit
+    that addresses the many facets of assessing the security posture of these devices.
+    This talk will look at the functionality of the framework including information
+    gathering, exploitation, social engineering, and post exploitation through both
+    a traditional IP network and through the mobile modem, showing how this framework
+    can be leveraged by security teams and penetration testers to gain an understanding
+    of the security posture of the smartphones in an organization. You will also learn
+    how to use the framework through a command line console, a graphical user interface,
+    and a smartphone-based app. Demonstrations of the framework assessing multiple
+    smartphone platforms will be shown.
+  speakers: Georgia Weidman
+  title: The Smartphone Penetration Testing Framework
+- desc: Since the very first HOPE conference in 1994, the social engineering panel
+    has been a huge draw. We basically round up a bunch of people who like to play
+    on the phone, tell some stories, and make live calls to strangers who wind up
+    telling us things they really shouldn't in front of a huge crowd of people who
+    are trying very hard not to make any noise. It's all a lesson on how insecure
+    information really is, and how you can avoid making the same mistakes that some
+    unsuspecting person someplace will inevitably make when this panel randomly calls
+    them. Saturday 2100 Dennis, Nutt
+  speakers: Emmanuel Goldstein and friends
+  title: Social Engineering
+- desc: 'For the past two years, Geeks Without Bounds has been using technology to
+    assist people in times of crisis and helping to build better tools to empower
+    people to help themselves. Whether organizing Random Hacks of Kindness events,
+    teaching app developers about data security, or helping humanitarian organizations
+    engage with hacker communities, they''ve been bridging the chasm between technology
+    and aid organizations. Johnny and Willow will present some real world challenges
+    that have bubbled up to the surface and show how you can help us all solve more
+    than #firstworldproblems.'
+  speakers: Johnny Diggz, Willow Brugh
+  title: 'Solving More Than #firstworldproblems'
+- desc: 'Several HOPES ago, Robert Steele started doing separate Q&A sessions using
+    his knowledge as a former spy, pioneer of open source intelligence, advocate of
+    multinational sense-making, and #1 Amazon reviewer for nonfiction. At The Next
+    HOPE (2010), with help from those who stayed with him, he set what may be the
+    world record for Q&A, eight hours and one minute, from midnight Saturday to 0801
+    Sunday. This year will be strictly limited to two hours in open session, but the
+    possibility of a roundtable thereafter will remain open. All questions welcome.'
+  speakers: Robert David Steele
+  title: 'Spy Improv: Reality Unfiltered'
+- desc: 'Over the past couple of years, a flurry of developments and events have been
+    happening in the world of HTTPS: from BEAST to HSTS to public key pinning and
+    mixed scripting. Some of these are of abstract interest to technical users, and
+    some require action on the part of webmasters. This talk will cover the broad
+    brush strokes of these developments with a focus on how webmasters can take advantage
+    of them and how to avoid silly configuration mistakes. In the latter part of the
+    talk, a few expected future developments will be covered.'
+  speakers: Adam Langley
+  title: The State of HTTPS
+- desc: 'In the last few years, open source hardware went from an obscure hobby to
+    a burgeoning movement built on values and practices derived from open source software,
+    hacker culture, and craft traditions. This increase is visible in the exponential
+    growth of the community of developers and users, the increase in the number and
+    revenue of open source hardware businesses, and the emergence of a large number
+    of new DIY gadgets and machinery - from 3D printers and microcontrollers to soft
+    circuits and tech crafts. The accessibility of hardware plans, along with the
+    communities and collaborative practices that surround them, is lowering the barrier
+    to entry and encouraging people of all ages and walks of life to create, hack,
+    and re-purpose hardware. Taken together, hackerspaces, the increasing accessibility
+    of digital fabricators, and these open and collaborative practices are leading
+    to an explosion of creativity and innovation reminiscent of the golden years of
+    the Homebrew Computer Club. This panel will go over the defining events of the
+    last few years to draw a snapshot of the current state of the open source hardware
+    movement and the impact it''s having in hacker culture and beyond. Also included
+    in the discussion will be the Open Hardware Summit: the world''s first comprehensive
+    conference on open hardware, and how it will serve as a venue to discuss and draw
+    attention to the rapidly growing open source hardware movement.'
+  speakers: Dustyn Roberts, Catarina Mota
+  title: The State of Open Source Hardware
+- desc: In protecting today's network infrastructures, organizations have a lot of
+    shiny tools at their disposal. Firewalls, intrusion detection/prevention systems,
+    network-based ACLs, two factor authentication, and much more. While these are
+    great tools for detection and prevention of network intrusions, system and network
+    logs are often overlooked. This talk will discuss using a fairly new open source
+    (GNU/GPLv2) utility known as "Sagan" for real time log analysis.
+  speakers: Da Beave (Champ Clark III)
+  title: Taking a Bite Out of Logs with Sagan
+- desc: 'Many of us in the hacker/maker communities have a powerful desire to change
+    society by sharing the technologies we''re passionate about with those around
+    us. We''re convinced that our way of thinking can lead people to liberation, empowerment,
+    and better lives. But it doesn''t always work the way we hope. While some technologies
+    support change in certain situations - Twitter and mobile devices in the Middle
+    East and Africa, the printing press and democracy - history is littered with failed
+    technology-driven plans to change the world. This is where programmers can take
+    a page from social research and history. There is not, in fact, consensus in the
+    research that "technology teaches itself" or "code is law." Society is a complex
+    system (people are complex systems!) and overly simplistic beliefs that technology
+    has one universal kind of impact on its users can doom well-intentioned efforts
+    to help others use technology. What do we need to know about society and how technology
+    changes it in order to be successful? In this panel, Gus will share some basic
+    rules from research on education, political movements, and social change which
+    everyone who wants to write code to change the world should know. Christina will
+    share cases of activist technical interventions that illustrate the complexity
+    of success or failure, and how inseparable social and technical elements can be.
+    Chris will do a postmortem of some past projects to change journalism with technology,
+    including the Independent Media Center, discussing their successes and failures.
+    And Matt will talk about his work to develop a degree in open technology and education
+    at Adelphi University: what he''s doing to convince administrators that FOSS technology
+    is important enough to merit its own program, what challenges he faces in talking
+    to educators, and the things in his plan of study which he thinks are most important
+    for politically conscious tech developers to know.'
+  speakers: Chris Anderson, Gus Andrews, Matt Curinga, Christina Dunbar-Hester
+  title: 'Technology to Change Society: What Not to Do'
+- desc: Robert was the opening speaker at the first Hackers On Planet Earth conference
+    in 1994 and he's been back every time since then. In this talk, he will speak
+    about his six week formal campaign as a Reform Party candidate for the presidency
+    in 2012. He communicated with every presidential candidate less Romney and Obama,
+    and will outline what he learned about "the system," the personalities running
+    for President, and several specific recommendations he has made to the Occupy
+    movement and others about how to reboot the Republic. His campaign website remains
+    live at http://bigbatusa.org.
+  speakers: Robert David Steele
+  title: 'Testing the Two Party Tyranny and Open Source Everything: The Battle for
+    the Soul of the Republic'
+- desc: In the past decade, authoritarian governments have witnessed political upheaval
+    ranging from the Orange Revolution to the Arab Spring movements. Many governments
+    around the world have responded by more closely monitoring and even censoring
+    telephone, Internet, and mobile communications. Join TProphet for a detailed and
+    technical look at this censorship and surveillance, how it's being implemented
+    in various countries, the present and future risk to your communications freedom,
+    and what you can do to protect yourself.
+  speakers: TProphet
+  title: 'Twitter Revolution Meets Surveillance State: Now What?'
+- desc: Marc Tobias says the U.S. intelligence community lacks imagination because
+    it doesn't have any kids. Would an immersive, space camp-type environment ignite
+    kids' interest and be the best way to train them in the art and science of physical,
+    cyber, and electronic security? Marc and his colleagues need your input on a training
+    model where the world's foremost physical security professionals and cyber-wizards
+    would teach via sophisticated gaming, high tech tools, cyber-type Hogan's Alleys,
+    advanced techniques, and simulators. The panelists will engage the HOPE audience
+    in an interactive discussion about how to improve America's low "security intelligence"
+    by training young people more effectively.
+  speakers: Marc Weber Tobias, Tommie R. Blackwell, Matt Fiddler
+  title: Using a Space Camp Model for Next Generation Security Training
+- desc: In this talk, Ben will show how to use tools already included in the popular
+    web browsers Firefox and Chrome to learn what's really happening when you browse
+    the web. He'll show how to find hidden values in forms, watch AJAX transactions,
+    and manipulate the data you send out into the cloud, as well as touch on extensions
+    like AdBlock and Greasemonkey and see how they can automate much of this for you.
+  speakers: Ben Combee
+  title: Using Browser-based Tools to Open Up the Web
+- desc: In recent years, real time weather data and numerical forecast model information
+    has moved from proprietary systems and closed distribution methods to the Internet,
+    and huge amounts of taxpayer-funded weather data in easy to understand formats
+    is now free for all to use. This has made it easier than ever for anyone to get
+    a good forecast anytime and anywhere, while also allowing storm chasers to leverage
+    their meteorologic knowledge and use mobile Internet technologies and GPS location
+    tracking to chase tornadoes, hurricanes, lightning, and other severe weather.
+    The presentation will give an overview of weather data gathering methodologies,
+    from ground stations and radar to satellites and weather balloons; give an overview
+    of free or cheap web resources and forecasting models; explain the difference
+    between a "watch" and a "warning;" and show some results from both urban and rural
+    storm chasing.
+  speakers: John Huntington
+  title: The Weather is Not Boring! Forecasting, Following, and Photographing Storms
+- desc: The popularity of massive centralized services presents challenges for collective
+    privacy, a full diversity of viewpoints, and customized online identities. Decentralized
+    or federated services are gaining popularity as the answer for users concerned
+    about the one-size-fits-all web. There is significant work to be done on both
+    the technical and social aspects of federation. Deb will discuss current alternatives,
+    near to ready projects, and the ones we might want to start thinking about building.
+  speakers: Deb Nicholson
+  title: 'We Will Be Legion: Decentralizing the Web'
+- desc: 'A single visionary is often credited with shaping innovation and leading
+    to success in open source and open content projects. This success doesn''t come
+    from that person alone: he or she leads a corps of willing volunteers, admirers,
+    workers, and others who will turn vision into reality - often with some sort of
+    organizational structure, and across a span of years. This presentation will focus
+    on how to maintain the health and sustainability of such organizations with strong
+    well-known leaders in the event the founder is lost. The presenter will draw upon
+    personal experience with the recent loss of Michael Hart, founder of Project Gutenberg
+    and inventor of eBooks. Every organization is different, and every leader is different.
+    Yet, there are many common characteristics in efforts that started with a single
+    visionary, who led formation of what became a large and successful organization.
+    The presentation will point out some of these similarities and identify some of
+    the promising strategies that have been effective for continuity.'
+  speakers: Greg Newby
+  title: 'When the Founder is Gone: Open Projects Longevity'
+- desc: Web apps are becoming almost exponentially responsible for handling user data.
+    This incredible increase summons an urgent requirement for client-side web browser
+    crypto standards. However, web browsers lack client-side crypto standards for
+    building blocks such as secure block ciphers, public key schemes, and hashing
+    algorithms. Developers currently rely on JavaScript crypto libraries in order
+    to implement these functions, which can, admittedly, provide strong crypto in
+    some situations, but still falter when faced with certain attacks. This talk will
+    look at Cryptocat, a security-centric web-chat client with client-side cryptography,
+    and also focus on the problems, the solutions, and the limitations of JavaScript
+    cryptography. There will be a discussion of potential solutions to these problems,
+    which may very well require the implementation of an integrated universal web
+    browser standard for client-side cryptography.
+  speakers: Nadim Kobeissi
+  title: Why Browser Cryptography is Bad and How We Can Make It Great
+- desc: 'As the Internet becomes more public and universal, the world is beginning
+    to have an identity crisis. Some big questions are coming up: who are we, and
+    how should we be represented online? Originally inspired by having his Google
+    Plus account suspended twice during the nymwars fiasco, aestetix will explore
+    the deeper nature of how we identify ourselves and each other. The talk will look
+    at issues both from a technology and social perspective, asking questions like
+    why hacker handles are important, and how our notions of privacy have changed
+    in the greater scheme. It will also cover the ways in which current online social
+    networks try to build upon existing social relationships and discuss suggestions
+    for improvement in the future.'
+  speakers: aestetix
+  title: 'Why Names Matter: How Online Identity is Defining the Future of the Internet'
+- desc: This talk is addressed to that kid in the back who's wearing a Utilikilt and
+    a black t-shirt that says "I Hack Charities," who asks, "Why would I bother going
+    to grad school? I'm self-taught, college was a waste of my time, and universities
+    only exist to train wage slaves." John will draw from personal experience to describe
+    how in graduate school you get to do what you love, you get to make larger and
+    more structured contributions to the community, you experience personal growth
+    while surrounded by amazing people, you're part of a meritocracy and a close-knit
+    social circle, and the door is open for interesting opportunities afterward. Included
+    will be a discussion on how hackers can get in.
+  speakers: John Linwood Griffin
+  title: Why You Shouldn't Write Off Higher Education, Young Grasshopper
+- desc: The Director of ACLU's Speech, Privacy, and Technology Project will provide
+    an overview of the Espionage Act and the other statutes that the government has
+    employed to prosecute leakers and threaten publishers. Ben will discuss the ACLU's
+    litigation on behalf of WikiLeaks supporters whose Twitter records have been subpoenaed
+    and whose laptops have been seized by government agents, and will place the Obama
+    administration's unprecedented campaign against leakers in legal and historical
+    context.
+  speakers: Ben Wizner, Catherine Crump
+  title: Wikileaks, Whistleblowers, & the War on the First Amendment
+- desc: 'Smartphones have changed the world. Your calendar, photographs, private documents,
+    and communication with your entire social sphere is now just a swipe away. We
+    are carrying exponentially increasing amounts of highly personal data around with
+    us in our pockets. But are we doing enough to safeguard this data? Mobile devices
+    are also becoming an important tool for social change, but with this they also
+    become a more important target for governments and corporations. With so many
+    attack vectors on mobile devices, it is important to know the ways that your mobile
+    device can be compromised and how you can protect against these attacks. This
+    talk will focus primarily on the security of the Android operating system. You
+    will hear about how to protect your phone against warrantless search and seizure
+    by law enforcement, as well as how much damage malicious apps can actually do
+    and how to protect yourself from becoming the victim of malware. You will hear
+    about password security concerns on Android and how to protect yourself, along
+    with some of the many great security-related apps that Android has to offer. This
+    talk will examine the question of whether you can protect yourself from the greatest
+    of all threats to your phone: The Phone Company.'
+  speakers: Cooper Quintin
+  title: Your Cell Phone is Covered in Spiders! (An Overview of Mobile Device Security)
+
